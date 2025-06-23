@@ -35,7 +35,7 @@ This repository contains the Power BI dashboard I created as part of my internsh
 ## 📁 Files
 
 - `Power BI Dashboard Screenshot`: ![Dashboard](Screenshot 2025-06-23 105745.png)
-- `Dataset`: Superstore_Final_Dataset.xlsx *(not included due to privacy)*
+- `Dataset`: Superstore_Final_Dataset  *(superstore_final_dataset (1).csv)*
 
 ---
 
